@@ -3,4 +3,4 @@ This is a small interactive example of one of my favorite math problems. The pro
 
 It can be easily (sort of) shown that you can never remove all the checkers from the red region, but many people do not believe it at first and want to tinker with the problem. 
 
-Check it out on plunkr: https://plnkr.co/AmmK5ouMeWfRTq9soWbO
+[Check it out on plunkr!](https://plnkr.co/AmmK5ouMeWfRTq9soWbO)
